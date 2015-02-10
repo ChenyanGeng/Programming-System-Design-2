@@ -1,2 +1,2 @@
 # Programming-System-Design-2
-	Designed a polynomial calculator to operate between polynomials with ArrayList
+	Designed a polynomial calculator implemented by ArrayList to operate between polynomials.
